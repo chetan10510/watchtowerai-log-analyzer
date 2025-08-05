@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+runbooks/
+model/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.so
+.env
+.env.*
+.vscode/
+.idea/

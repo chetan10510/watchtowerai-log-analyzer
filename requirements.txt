@@ -1,0 +1,5 @@
+streamlit
+torch
+transformers
+boto3
+python-dotenv
