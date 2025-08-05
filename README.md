@@ -126,23 +126,4 @@ This project is licensed under the Apache 2.0 License.
 Author
 Created by Chetan K. as part of an AI/MLOps learning initiative. For academic, internship, and demonstration purposes.
 
-yaml
-Copy
-Edit
 
----
-
-Let me know if you'd like:
-- A **shorter version** for GitHub previews
-- A **PDF version** for resume/portfolio attachment
-- A **streamlined version** for Hugging Face `README.md`
-
-This version positions you professionally as a student or junior MLOps engineer with hands-on full-stack AI experience.
-
-
-
-
-
-
-
-Ask ChatGPT
